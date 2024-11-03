@@ -1,4 +1,4 @@
-# Tetration - Classifier Training Pipeline
+# TetrationAI - Classifier Training Pipeline
 
 This repository provides a seamless pipeline for training a classifier on a given dataset by expanding the number of classes. It enhances pattern recognition by augmenting the dataset with CIFAR images. Additionally, the classifier serves as a discriminator for fine-tuning embeddings within a class-conditional neural network, fully integrated with the BigGAN-AM pipeline.
 
